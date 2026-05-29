@@ -5,4 +5,6 @@
 //🧠 Pista: Con qué indice arrancan los arreglos?
 
 $frutas = array("manzana", "banana", "naranja");
-echo $frutas[3];
+foreach ($frutas as $fruta){
+}
+echo $frutas[2];

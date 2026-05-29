@@ -5,6 +5,6 @@
 // Complejidad: ALTA (3 puntos)
 
 
-function calcularFactorial($numero) {
-    // Tu código aquí
+function calcularFactorial(int $numero) {
+    return 
 }
