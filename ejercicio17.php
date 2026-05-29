@@ -5,6 +5,9 @@
 
 // 🧠 Pista: Existe array_sum para sumar y count para obtener la cantidad de elementos.
 
-function calcularPromedio($numeros) {
-    // Tu código aquí
+function calcularPromedio(...$numeros) {
+    for ($i = 0; $i < count ($numeros); $i++){
+        
+    }
+
 }

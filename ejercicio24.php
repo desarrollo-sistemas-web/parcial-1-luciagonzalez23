@@ -5,6 +5,6 @@
 
 // 🧠 Pista: Puedes usar array_push o range.
 
-function generarSecuencia($n) {
+function generarSecuencia(int $n) {
     // Tu código aquí
 }

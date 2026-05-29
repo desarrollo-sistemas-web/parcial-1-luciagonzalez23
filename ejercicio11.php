@@ -5,7 +5,7 @@
 
 //Pista: Puedes usar la función strlen para obtener la longitud de una cadena. Por ejemplo, strlen("Hola") devolvería el valor 4.
 
-function invertirCadena($cadena) {
+function invertirCadena(string $cadena):  {
     // Tu código aquí
 
 }
